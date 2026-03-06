@@ -1,6 +1,27 @@
-"Aspiring toward MQM CPU/GPU/NPU and MQM Data Transmission"
+# MQM-PAM/OFDM Phase Transmission
+## Superposition Algorithm for HBM, CPU, NPU, and GPU
 
-( MQM CPU/GPU/NPU와 MQM data 전송을 꿈꾸며  )
+> **"Dreaming of MQM-based high-speed data transmission across all computing units."**
+
+---
+
+### 💡 Core Technology: 3D-Mapping Transfer
+This project introduces a revolutionary data transmission method that maps information into a **3D Symbol Space** within a single cycle.
+
+
+
+#### **Key Components of a Data Symbol**
+A single data symbol is defined by the integration of three physical dimensions:
+1. **Frequency ($f$):** Multi-carrier modulation (OFDM)
+2. **Amplitude ($A$):** Multi-level signaling (PAM/MQM)
+3. **Phase ($\phi$):** Phase shift keying
+
+#### **The 1-Cycle Advantage**
+* **Mechanism:** 1-cycle data → **3D-mapping** → High-speed transfer.
+* **Efficiency:** Maximizing bits per symbol by utilizing $f, A, \phi$ simultaneously.
+* **Thermal Management:** Optimized for low-heat, high-bandwidth environments like HBM and next-gen processors.
+
+---
 
  1channel에 1cycle 당 (n + m ) x phase bit를  보내는 기술... + 발열에 좋은 방법
  
@@ -34,6 +55,8 @@ $F(n) = 2^n \times \text{Scaling Factor}$
 ### 2.2 3D Data Symbol
 
 핵심 keyword : data 전송 Symbol = (Frequency , Amplitude , Phase)
+
+              ------------------> 1cycle  data 3D-mapping transfer
 
 The transmitted symbol is a synthesis of three independent physical dimensions:
 * **Frequency ($f$):** $n$-bit mapping
