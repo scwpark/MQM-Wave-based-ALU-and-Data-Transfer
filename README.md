@@ -1,3 +1,11 @@
+"MQM Big ALU는 더 이상 속도만을 쫓지 않습니다. 우리는 열(Heat)을 남기지 않는 차가운 연산으로, 데이터 전송의 '양자적 도약(Quantum Jump)'을 실현합니다."
+
+"Big ALU Quantum Jump: MQM-Based Ultra-Fast HBM Transfer with Zero-Heat Architecture"
+
+"Achieving a Quantum Jump in Computing: MQM Big ALU Architecture for Heat-Free High-Speed Data Transfer"
+
+"Beyond the Memory Wall: MQM Big ALU & Thermal-Free HBM Transfer" 
+
 # MQM-PAM/OFDM Phase Transmission( MQM_final (2026.03.07).pdf )
 ## Superposition Algorithm for HBM, CPU, NPU, and GPU
 
