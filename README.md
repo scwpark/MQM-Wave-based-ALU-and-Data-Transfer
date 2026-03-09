@@ -195,6 +195,10 @@ MQM pipeline includes Huffman pre-compression before transmission.
 > - Author: Sungtae Park (scwpark)
 > - Source code available in this repository
 
+## ☕ Appendix: Extended Design Options
+For 6-configuration design freedom (F/A/P State selection),
+see: MQM_Final(26.03.04-03.09)S_G (appendix).pdf
+
 ## ☕ Buy Me a Coffee
 
 MQM is free and open-source forever — no patent, no fee.
