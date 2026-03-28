@@ -1,4 +1,4 @@
-# MQM (Multi-Quantum Mode) Transmission Algorithm
+# MQM (Multi-Quantum Mode) wave based ALU(CPU/GPU/NPU) and data transfer algorithms
 
 "Big ALU Quantum Jump: MQM-Based Ultra-Fast HBM Transfer with Zero-Heat Architecture"
 
