@@ -2,7 +2,7 @@
 
 "Big ALU Quantum Jump: MQM-Based Ultra-Fast HBM Transfer with Low-Heat Architecture"
 * MQM (Multi-Quantum Mode) introduces a wave-based ALU architecture — a Post-Von Neumann, next-generation ALU design for CPU, GPU, and NPU systems. ( wave based computing )
-* 
+  
 * MQM synthesizes Frequency(Color), Amplitude(Brightness / Intensity), and Phase(Interference · Diffraction · Polarization) into a unified 3D signal
 * — applicable to every data channel in existence: CPU/GPU/NPU cores, their internal buses, RAM, HBM, Photonic interconnects via Optical media and backbone networks(Optics )."
   
