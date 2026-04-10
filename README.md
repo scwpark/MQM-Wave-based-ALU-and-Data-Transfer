@@ -32,10 +32,7 @@ n th CPU/GPU core ] → [MQM Encoder IP] → wire → [MQM Decoder IP] → [HBM4
 
 ------------------------------------------------------------------------
 
-![System Architecture](3-1.CPU_HBM_ALL%20electronics.png)
-![System Architecture](3-2.CPU_HBM_ALL%20electronics.png)
- 
- 
+
 
 image Files :   3-1.CPU_HBM_ALL electronics.png   ( CPU / GPU / NPU  <=> HBM )
 
@@ -57,6 +54,10 @@ MQM ALU :  6. MQM_ALU_Wave (26.03.13)2-1.jpg      <====== MQM ALU
                        ( Wave based ALU, Next generation ALU )
 
                       7-1.MQM_ALU_Circuit(50PS(data)_50PS(NC)easy.pptx
+
+![System Architecture](3-1.CPU_HBM_ALL%20electronics.png)
+![System Architecture](3-2.CPU_HBM_ALL%20electronics.png)
+![System Architecture](7-A.MQM_ALU_A_Circuit(50PS(data)_50PS(NC).jpg)
 
 "MQM eliminates the fundamental premise of on-chip HBM integration.
 
