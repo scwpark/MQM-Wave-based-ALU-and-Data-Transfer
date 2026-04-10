@@ -38,22 +38,23 @@ image Files :   3-1.CPU_HBM_ALL electronics.png   ( CPU / GPU / NPU  <=> HBM )
 
                 3-2.CPU_HBM_ALL electronics.png (  All electronics <=> optic fiber/wire <=> all electronics )
 
-MQM algorithm :   4.( ENG/KOR) Final(26.03.04-04.07)SCW_G.pdf   
-                  : Superposition example ( python)
-                   5. MQM_Final(26.03.04-03.09)SCW_G (appendix).pdf
+MQM algorithm :   
+4.( ENG/KOR) Final(26.03.04-04.07)SCW_G.pdf : **Superposition example ( python)**
+                   
+5. MQM_Final(26.03.04-03.09)SCW_G (appendix).pdf
 
-MQM ALU :  6. MQM_ALU_Wave (26.03.13)2-1.jpg      <====== MQM ALU
+MQM ALU :  
+6. MQM_ALU_Wave (26.03.13)2-1.jpg      <====== MQM ALU
 
-                      6. MQM_ALU_Wave (26.03.13)2-2.jpg       <====== MQM ALU
+6. MQM_ALU_Wave (26.03.13)2-2.jpg       <====== MQM ALU
+ 
+6. **[ENG]MQM_Wave based Computing_ALU(26.03.04-04.07)SCW_G.pdf**
+ 
+6.**[KOR]MQM_Wave based Computing_ALU(26.03.04-04.07)SCW_G.pdf **
+     : **Superposition example (python)**
+     ( Wave based ALU, Next generation ALU )
 
-                      6. [ENG]MQM_Wave based Computing_ALU(26.03.04-04.07)SCW_G.pdf 
-                         [KOR]MQM_Wave based Computing_ALU(26.03.04-04.07)SCW_G.pdf 
-
-                         : Superposition example (python)
-
-                       ( Wave based ALU, Next generation ALU )
-
-                      7-1.MQM_ALU_Circuit(50PS(data)_50PS(NC)easy.pptx
+7-1.MQM_ALU_Circuit(50PS(data)_50PS(NC)easy.pptx
 
 ![System Architecture](3-1.CPU_HBM_ALL%20electronics.png)
 ![System Architecture](3-2.CPU_HBM_ALL%20electronics.png)
