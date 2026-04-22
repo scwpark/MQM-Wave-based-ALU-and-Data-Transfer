@@ -134,7 +134,11 @@ MQM is free and open-source forever — no patent, no fee.
 If MQM helped you in any way, even a single cup of coffee 
 keeps this old doctor-inventor going! 🦋
 
-👉 [Buy Me a Coffee](https://buymeacoffee.com/scwpark)
+👉💰 Support MQM (후원):
+Shinhan Bank (신한은행)
+Name: PARK SUNG TAE
+SWIFT: SHBKKRSE  
+Account: 110-623-275173
 
 
 *"In the early 2000s, I built a C/C++-based in-memory database using M-way threaded (AVL & Red-Black) trees + splay tree . 
